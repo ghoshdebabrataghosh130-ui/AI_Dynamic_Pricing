@@ -5,3 +5,6 @@ __pycache__/
 *.pyc
 *.pptx
 catboost_info/
+dynamic_pricing_model.pkl
+scaler.pkl
+feature_columns.pkl
